@@ -16,7 +16,7 @@ export default function Home() {
   return (
     // main div
 
-    <div className="">
+    <div>
       <Navbar />
       
           <Header />
