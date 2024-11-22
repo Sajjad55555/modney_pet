@@ -1,11 +1,15 @@
 import Body_card from "./components/body_card";
+import Body_image_card from "./components/body_image_card";
 import Body_text from "./components/body_text";
 import Bodyimage from "./components/bodyimage";
 import Footer from "./components/footer";
 import Header from "./components/header";
 import Header_text from "./components/header_text";
 import House_card from "./components/house_card";
+import Imagecard from "./components/imagecard";
 import Navbar from "./components/navbar";
+import YellowCard from "./components/yellowcard";
+
 
 
 export default function Home() {
@@ -23,10 +27,15 @@ export default function Home() {
           {/* body image */}
           <Bodyimage/>
           {/* body cards */}
+          {/* <House_card title="HAUS in HOUSE"/> */}
           {/* <Body_card/> */}
-
+          <YellowCard title="지금 진행 중인 모드니펫 이벤트"/>
+          
           {/* house card 2 */}
+          <div className="mt-10">
           <House_card title="모드니펫 키링"/>
+          </div>
+          
           <Footer/>
         </div>
         
