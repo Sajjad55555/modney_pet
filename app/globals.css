@@ -88,7 +88,7 @@
     display: table-cell;
     width: 20%; /* Ensures equal width for all columns */
     text-align: center;
-    border: 1px solid black; /* Black border for each cell */
+    border: 3px solid black; /* Black border for each cell */
     padding: 10px; /* Adds some spacing inside the cells */
   } 
 
