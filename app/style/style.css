@@ -1,0 +1,33 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .nav-container {
+        flex-direction: row;
+    }
+}
+
+.logo-1 {
+    width: 200px;
+}
+
+.image-1 {
+    width: 78px;
+    height: 78px;
+}
+
+.image-2 {
+    width: 638px;
+    height: 79px;
+    margin-left: 28px;
+    margin-right: 28px;
+} */
