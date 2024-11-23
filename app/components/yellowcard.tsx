@@ -1,5 +1,3 @@
-
-import House_Image_Card from './house_image_card'
 import { FaCircleChevronLeft,FaCircleChevronRight } from "react-icons/fa6";
 import Imagecard from './imagecard';
 export default function YellowCard(props:any) {

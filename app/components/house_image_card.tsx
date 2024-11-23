@@ -1,6 +1,3 @@
-
-
-
 export default function House_Image_Card(props:any) {
   return (
     <>
